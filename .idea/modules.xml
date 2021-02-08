@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/flasky.iml" filepath="$PROJECT_DIR$/.idea/flasky.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/flasky-8e/.idea/flasky-8e.iml" filepath="$USER_HOME$/Downloads/flasky-8e/.idea/flasky-8e.iml" />
+    </modules>
+  </component>
+</project>
