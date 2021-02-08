@@ -43,3 +43,4 @@ venv
 
 env.sh
 data-*
+.idea/
